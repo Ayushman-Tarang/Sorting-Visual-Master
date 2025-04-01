@@ -3,7 +3,8 @@
 
 This is a web application built using HTML, CSS, Javascript to visualize classic sorting algorithms such as bubble, insertion, selection, merge, quick 
 
-
+See the live demo of Sorting Visualizer : https://ayushman-tarang.github.io/Sorting-Visual-Master/
+Created by : Ayushman Tarang
 ## Purpose
 
 I made this sorting visualizer web application to improve my skills more in
